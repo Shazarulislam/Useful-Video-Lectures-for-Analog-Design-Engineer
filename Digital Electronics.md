@@ -1,2 +1,1 @@
-# Useful-Video-Lectures-for-VLSI-Engineer
-Must have the prerequisite knowledge for analog design engineer, these lectures will cover most of the things.
+[Link is here] {https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm}
